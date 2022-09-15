@@ -8,3 +8,9 @@ hello from demo2
 Hello from subheader demo2
 
 
+
+# Local development
+
+1. open ***** in your browser 
+
+
